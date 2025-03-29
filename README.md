@@ -122,6 +122,6 @@ Several ways to extend this project:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
----
+----
 
 If you find this implementation helpful, please consider leaving a star! For questions or contributions, feel free to open an issue or submit a pull request.
